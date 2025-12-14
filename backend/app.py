@@ -25,7 +25,7 @@ from resume_matcher import calculate_match_score_enhanced
 app = Flask(__name__, static_folder='static', template_folder='templates')
 CORS(app)
 
-# === Database Integration ===
+# ==== Database Integration ====
 SUPABASE_URL = os.environ.get("SUPABASE_URL")
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
 
