@@ -1,8 +1,6 @@
 # Talentify: AI-Powered Resume Screening Platform
 A full-stack web application that uses advanced AI, NLP, and BERT models to intelligently screen, categorize, and rank resumes based on specific job requirements.
 
-- [Demo Video](https://www.linkedin.com/posts/nitinkumar2506_epochfolio-renusharmafoundation-activity-7355673163512336384-hxnZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEaE-e4BBF6hExNngmMqGMd50BjwXQTOM_4)
-
 ## Some Images
 
 <img width="1839" height="871" alt="Screenshot 2025-10-04 205834" src="https://github.com/user-attachments/assets/02bf8cc3-b209-4af0-8322-7185830e3dcf" />
